@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "a",
+      "done": true
+    },
+    {
+      "id": 2,
+      "text": "b",
+      "done": true
+    },
+    {
+      "id": 3,
+      "text": "c",
+      "done": true
+    },
+    {
+      "id": 4,
+      "text": "d",
+      "done": true
+    },
+    {
+      "text": "A",
+      "done": false,
+      "id": 5
+    },
+    {
+      "text": "B",
+      "done": false,
+      "id": 6
+    },
+    {
+      "text": "A",
+      "done": false,
+      "id": 7
+    }
+  ]
+}
